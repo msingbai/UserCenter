@@ -9,18 +9,17 @@
 
 **注册页**（Register）
 
-![image-20250407221200531](../../Blog/msingbai.github.io/docs/.vuepress/public/blog_images/image-20250407221200531.05dcb069.png)
+![register](https://github.com/msingbai/UserCenter/blob/master/img/register.png)
 
 **登录页**（Login）
-
-​																						![image-20250423112118448](../../Blog/msingbai.github.io/docs/.vuepress/public/blog_images/image-20250423112118448.png)
+​																						![login](https://github.com/msingbai/UserCenter/blob/master/img/login.png)
 
 **管理页**（Manage）
 
 根据管理员权限查询用户信息，隐去了敏感信息
 
-![image-20250423111802361](../../Blog/msingbai.github.io/docs/.vuepress/public/blog_images/image-20250423111802361.png)
+![manage](https://github.com/msingbai/UserCenter/blob/master/img/manage.png)
 
 **注销**（Logout）
 
-![image-20250423112340970](../../Blog/msingbai.github.io/docs/.vuepress/public/blog_images/image-20250423112340970.png)
+![logout](https://github.com/msingbai/UserCenter/blob/master/img/logout.png)
