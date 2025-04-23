@@ -9,17 +9,17 @@
 
 **注册页**（Register）
 
-![register](https://github.com/msingbai/UserCenter/blob/master/img/register.png)
+![register](https://github.com/msingbai/UserCenter/blob/master/img/register.png?raw=true)
 
 **登录页**（Login）
-​																						![login](https://github.com/msingbai/UserCenter/blob/master/img/login.png)
+​																						![login](https://github.com/msingbai/UserCenter/blob/master/img/login.png?raw=true)
 
 **管理页**（Manage）
 
 根据管理员权限查询用户信息，隐去了敏感信息
 
-![manage](https://github.com/msingbai/UserCenter/blob/master/img/manage.png)
+![manage](https://github.com/msingbai/UserCenter/blob/master/img/manage.png?raw=true)
 
 **注销**（Logout）
 
-![logout](https://github.com/msingbai/UserCenter/blob/master/img/logout.png)
+![logout](https://github.com/msingbai/UserCenter/blob/master/img/logout.png?raw=true)
